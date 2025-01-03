@@ -116,7 +116,7 @@ files {
 
 - [Nuxt.js Documentation](https://nuxt.com/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [ShadCN Components](https://shadcn.dev/)
+- [ShadCN Components](https://www.shadcn-vue.com/)
 - [FiveM Documentation](https://docs.fivem.net/)
 - [Pinia State Management](https://pinia.vuejs.org/)
 - [Lua Language](https://www.lua.org/manual/5.4/)
